@@ -33,7 +33,7 @@ Wild Oasis is a Single Page Application (SPA) designed for the internal manageme
 ## Demo
 
 Check out the live admin app here:  
-[The Wild Oasis - Admin](https://wild-oasis-admin-green.vercel.app/)
+[The Wild Oasis - Admin](https://the-wild-oasis-admin-six.vercel.app/)
 
 ---
 
@@ -42,7 +42,7 @@ Check out the live admin app here:
 There’s also a **customer version** of this app where guests can view and book cabins.
 
 - **GitHub Repo**: [The Wild Oasis - Booking](https://github.com/auroraEros/the_wild_oasis_customer_website)
-- **Live Demo**: [The Wild Oasis - Booking](https://the-wild-oasis-customer-website-brown.vercel.app/)
+- **Live Demo**: [The Wild Oasis - Booking](https://the-wild-oasis-customer-website-drab.vercel.app/)
 
 ---
 
